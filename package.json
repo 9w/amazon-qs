@@ -1,11 +1,11 @@
 {
-    "name": "amazon-qs",
+    "name": "qs-amazon",
     "description": "Customed qs module for amazon query stringify",
-    "homepage": "https://github.com/9w/qs",
+    "homepage": "https://github.com/9w/qs-amazon",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/9w/qs"
+        "url": "https://github.com/9w/qs-amazon"
     },
     "main": "lib/index.js",
     "keywords": [
