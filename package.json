@@ -2,7 +2,7 @@
     "name": "qs-amazon",
     "description": "Customed qs module for amazon query stringify",
     "homepage": "https://github.com/9w/qs-amazon",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/9w/qs-amazon"
